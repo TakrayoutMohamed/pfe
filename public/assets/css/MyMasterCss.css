@@ -1,0 +1,165 @@
+    .margin-top--15{
+        margin-top: -160px;
+    }
+    .active
+    {
+        background-color: blanchedalmond;
+        color: black;
+        /* padding: 2px; */
+    }
+    .size-width-height
+    {
+        width: 100%;
+        height: auto;
+
+    }
+    .bgblack
+    {
+        background-color: black;
+    }
+    .bgdark
+    {
+        background-color:darkslategray;
+    }
+    .bgwhite
+    {
+        background-color: white; 
+    }
+    .bgyellow
+    {
+        background-color: yellow; 
+    }
+    .bgdimgray
+    {
+        background-color:dimgray; 
+    }
+    .bggray
+    {
+        background-color:gray; 
+    }
+    .bgmaroon
+    {
+        background-color:maroon; 
+    }
+    .bgdarkred
+    {
+        background-color:darkred; 
+    }
+    .bgblue
+    {
+        background-color: blue;
+    }
+    .bgciel
+    {
+        background-color:cyan;
+    }
+    .bgpanel
+    {
+        height: 80px; 
+        background:url('../assets/img/fpoLogo1.png') NO-repeat ;
+        background-position: center;
+        opacity: 0.4;
+    }
+    .circle-icon-img
+    {
+        border-radius: 200px;
+        width:35px;
+        height:35px;
+    }
+
+    .color-white
+    {
+        color:white;
+
+    }
+    .color-black
+    {
+        color:black;
+
+    }
+    .color-white-shadow
+    {
+        color:white;
+        text-shadow: blue 1px 2px;
+    }
+
+
+    .radiusDD
+    {
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+    }
+    .radiusDDP
+    {
+        border-top-left-radius: 0px;
+        border-bottom-left-radius: 0px;
+    }
+    .radius-collapse
+    {
+        border-radius:100px ;
+    }
+    .tabs_radius
+    {
+        margin:1px -11px 1px -11px; 
+        border-radius:0px 0px 30px 30px;
+    }
+    .radius-top
+    {
+        border-radius: 20px 20px 0px 0px;
+    }
+    .radius-top-
+    {
+        border-radius: 10px 10px 0px 0px;
+    }
+    .radius-down
+    {
+        border-radius:0px 0px 30px 30px ;
+    }
+    .radius-down-
+    {
+        border-radius:0px 0px 18px 18px ;
+    }
+
+    .scroll
+    {
+        width: 100%;
+        height:150px;
+        resize: vertical;
+        overflow: auto;
+    }
+    .position-relative
+    {
+    position: relative;
+    }
+    .position-absolute
+    {
+    position:absolute;
+    }
+    .position-fixed
+    {
+    position: fixed;
+    }
+    .textarea
+    {
+    resize: vertical;
+    height:180px;
+    width:100%;
+    font-size:16px;
+    }
+    .myinput input
+    {
+    background-color:cornsilk;
+    }
+    .mylabel label
+    {
+    font-style: oblique;
+    font-size: 14px;
+    color:black;
+    }
+    .ptxt
+    {
+        font-weight: bold;
+    }
+
+
+    
